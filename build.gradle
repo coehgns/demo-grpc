@@ -38,6 +38,10 @@ dependencies {
     // grpc
     implementation 'io.grpc:grpc-services'
     implementation 'org.springframework.grpc:spring-grpc-server-web-spring-boot-starter'
+    implementation("io.grpc:grpc-netty-shaded:1.61.0")
+    implementation("io.grpc:grpc-protobuf:1.61.0")
+    implementation("io.grpc:grpc-stub:1.61.0")
+    compileOnly("org.apache.tomcat:annotations-api:6.0.53")
 
     // mapstruct
     implementation 'org.mapstruct:mapstruct:1.5.5.Final'
