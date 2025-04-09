@@ -1,4 +1,4 @@
-package com.example.demogrpc.domain.domain;
+package com.example.demogrpc.domain.member.domain;
 
 import jakarta.persistence.*;
 import lombok.*;

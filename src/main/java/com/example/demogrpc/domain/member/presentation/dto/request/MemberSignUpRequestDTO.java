@@ -1,4 +1,4 @@
-package com.example.demogrpc.domain.presentation.dto.request;
+package com.example.demogrpc.domain.member.presentation.dto.request;
 
 import lombok.Getter;
 
