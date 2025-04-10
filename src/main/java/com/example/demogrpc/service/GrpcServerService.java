@@ -1,4 +1,4 @@
-package com.example.demogrpc.domain.test;
+package com.example.demogrpc.service;
 
 import com.example.demogrpc.SimpleGrpc;
 import com.example.demogrpc.TestProto;
